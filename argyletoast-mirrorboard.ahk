@@ -17,7 +17,7 @@ SetcapsLockState, AlwaysOff
 ; Mouse Button 5, modified mirror board
 XButton2 & Tab::Send {Blind}{BS}
 XButton2 & CapsLock::Send {Blind}{'}
-XButton2 & Space::Send {Enter}
+XButton2 & Space::Send {Blind}{Enter}
 
 XButton2 & `::Send {Blind}{[}
 XButton2 & 1::Send {Blind}0
